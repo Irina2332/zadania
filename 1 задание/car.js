@@ -1,0 +1,10 @@
+const carName = "Mitsubishi Lancer";
+let maxCarSpeed = "290";
+maxCarSpeed = "350";
+console.log("У вас поменялась скорость", maxCarSpeed);
+let carOwner = "";
+carOwner = "Ирина";
+console.log("Поменялся владелец", carOwner);
+alert(carName);
+alert(maxCarSpeed);
+alert(carOwner);
